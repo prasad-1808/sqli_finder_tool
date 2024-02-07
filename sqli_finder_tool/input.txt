@@ -1,0 +1,4 @@
+http://testphp.vulnweb.com/login.php
+https://dpsfsis.com/Admin/Login.php
+https://www.abc.gov.in/login.php
+https://bmvm.bihar.gov.in/vr2.0/login.php
