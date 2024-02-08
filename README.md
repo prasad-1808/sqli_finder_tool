@@ -24,5 +24,13 @@
   - argparse
   - To install the above dependencies:
       - `pip install requests bs4 argparse`
+   
+# To use sqli_finder_tool using pip:
+  - Open cmd or terminal
+  - `pip install -i https://test.pypi.org/simple/ sqli-finder-tool`
+  - `sqli_finder_tool -h`
+    ![image](https://github.com/prasad-1808/sqli_finder_tool/assets/86564180/b81c568e-7688-4906-b4b2-076a9e8fece0)
+    
+
 
 
